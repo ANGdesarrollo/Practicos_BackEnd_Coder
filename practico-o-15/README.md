@@ -40,5 +40,7 @@ Configure NGINX para que haga un balance de carga en la ruta /api/randoms y en e
 utilice la ruta del proxy para hacer las peticiones HTTP. 
 Como agregado, agregue una configuracion para que tambien funcionen los sockets, ya que no funcionaban sin hacer unas configuraciones
 extras !!
+
+Espero que el Proxy acomode problemas de CORS que veniamos teniendo !! :)
 ```
 
