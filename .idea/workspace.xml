@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520776f7-faf6-4292-8f9c-850e26f63ad3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practico-e-5/.idea/practico-e-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practico-e-5/ejs/.idea/ejs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practico-p-16/.idea/practico-ñ-15.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,16 +28,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "javascript.nodejs.core.library.configured.version": "18.12.1",
+    "javascript.nodejs.core.library.typings.version": "18.11.19",
+    "last_opened_file_path": "D:/Programacion/Programacion/BackEnd/Practicos BackEnd/practico-p-16/nginx/NginxNode/public",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programacion\Programacion\BackEnd\Practicos BackEnd\practico-p-16\nginx\NginxNode\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programacion\Programacion\BackEnd\Practicos BackEnd\practico-p-16\nginx\NginxNode\public\utils\winstonLogger" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="flamegraph.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Practicos BackEnd/practico-p-16/nginx/NginxNode/public/19092.0x/flamegraph.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.flamegraph.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +70,11 @@
       <workItem from="1675221217414" duration="135000" />
       <workItem from="1675224030718" duration="1819000" />
       <workItem from="1675260800471" duration="707000" />
-      <workItem from="1675261534003" duration="2608000" />
+      <workItem from="1675261534003" duration="4824000" />
+      <workItem from="1675369127135" duration="454000" />
+      <workItem from="1675713648955" duration="8981000" />
+      <workItem from="1675734514550" duration="2085000" />
+      <workItem from="1675786926137" duration="20697000" />
     </task>
     <servers />
   </component>
