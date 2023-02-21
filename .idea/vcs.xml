@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Practico-q-17/Back-End" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/practico-o-15" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/practico-o-15/nginx" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/practico-ñ-15" vcs="Git" />

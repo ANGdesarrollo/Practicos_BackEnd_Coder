@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520776f7-faf6-4292-8f9c-850e26f63ad3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practico-e-5/.idea/practico-e-5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practico-e-5/ejs/.idea/ejs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practico-p-16/.idea/practico-ñ-15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/normalizr/normalizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/routes/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/routes/faker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/routes/info.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/routes/randoms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/server/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/sockets/corsConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/sockets/socket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/store/chat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/store/products.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/utils/winstonLogger/winstonLogger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practico-p-16/nginx/logs/access.log" beforeDir="false" afterPath="$PROJECT_DIR$/practico-p-16/nginx/logs/access.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practico-p-16/nginx/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/practico-p-16/nginx/logs/error.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,22 +38,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "javascript.nodejs.core.library.configured.version": "18.12.1",
-    "javascript.nodejs.core.library.typings.version": "18.11.19",
-    "last_opened_file_path": "D:/Programacion/Programacion/BackEnd/Practicos BackEnd/practico-p-16/nginx/NginxNode/public",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.12.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.11.19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programacion/Programacion/BackEnd/Practicos BackEnd/practico-p-16/nginx/NginxNode/public&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Programacion\Programacion\BackEnd\Practicos BackEnd\practico-p-16\nginx\NginxNode\public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programacion\Programacion\BackEnd\Practicos BackEnd\practico-r-18\nginx\NginxNode\public\utils" />
+      <recent name="D:\Programacion\Programacion\BackEnd\Practicos BackEnd\practico-r-18\Front-End\src\pages\chat" />
       <recent name="D:\Programacion\Programacion\BackEnd\Practicos BackEnd\practico-p-16\nginx\NginxNode\public\utils\winstonLogger" />
     </key>
   </component>
@@ -74,7 +86,11 @@
       <workItem from="1675369127135" duration="454000" />
       <workItem from="1675713648955" duration="8981000" />
       <workItem from="1675734514550" duration="2085000" />
-      <workItem from="1675786926137" duration="20697000" />
+      <workItem from="1675786926137" duration="21944000" />
+      <workItem from="1676744112435" duration="12894000" />
+      <workItem from="1676922717323" duration="366000" />
+      <workItem from="1676927397455" duration="12506000" />
+      <workItem from="1677011617013" duration="8155000" />
     </task>
     <servers />
   </component>
