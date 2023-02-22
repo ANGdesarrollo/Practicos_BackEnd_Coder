@@ -1,13 +1,16 @@
-import React, { useEffect, useContext } from 'react';
+import React, { useEffect, useContext, useState } from 'react';
 import { CartLayout } from "./CartLayout";
 import { useCheckLog } from "../../hooks/useCheckLog.js";
 import { ContextProvider } from "../../context/ContextProvider.jsx";
 import Axios from 'axios';
 import { SOCKET_URL } from "../../config/default.js";
+import { useNavigate } from "react-router-dom";
 
 Axios.defaults.withCredentials = true;
 
 export const CartContainer = () => {
+    const navigate = useNavigate();
+    const [ success, setSuccess ] = useState(false)
     const { isLogged, checkIsLogged } = useCheckLog();
     const { cart } = useContext( ContextProvider );
     const CartToSend = {
@@ -19,7 +22,10 @@ export const CartContainer = () => {
             CartToSend
         })
             .then( ( { data } ) => {
-                console.log( data );
+                setSuccess(true);
+                setTimeout(() => {
+                    navigate('/home')
+                }, 3000)
             } )
             .catch( err => console.log( err ) )
     }
@@ -30,7 +36,7 @@ export const CartContainer = () => {
     }, [] );
     return (
         isLogged.status && <>
-            <CartLayout dataUser={ isLogged.username } cart={ cart } setCart={ setCart }/>
+            <CartLayout dataUser={ isLogged.username } cart={ cart } setCart={ setCart } success={success}/>
         </>
 
     );

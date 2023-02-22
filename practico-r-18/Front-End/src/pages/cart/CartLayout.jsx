@@ -1,9 +1,10 @@
 import { DataUser } from "./DataUser";
 
-export const CartLayout = ( { dataUser, cart, setCart } ) => {
+export const CartLayout = ( { dataUser, cart, setCart, success } ) => {
 
 
     return (
+        !success ?
         <>
             <DataUser dataUser={ dataUser }/>
             <tbody>
@@ -24,7 +25,6 @@ export const CartLayout = ( { dataUser, cart, setCart } ) => {
             } ) }
             </tbody>
             { cart.length > 0 && <button onClick={ setCart } className="btn btn-primary">Finish Order</button> }
-
-        </>
+        </> : <div>Your order has been take!</div>
     )
 };

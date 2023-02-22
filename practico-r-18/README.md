@@ -236,3 +236,10 @@ Se utiliza Winston como logger.
 ```
 Este punto era opcional y no lo realicé
 ```
+
+
+# Aclaraciones:
+
+No guardé el pedido en la base de datos porque no vi que lo pidiera el TP. Tampoco realice una logica en el front para eliminar productos
+del carrito. Si son necesarias las puedo agregar, pero ahora entrego asi ya que no tengo mas tiempo extra !
+En caso de que quieras que lo agregue, puedo hacerlo.

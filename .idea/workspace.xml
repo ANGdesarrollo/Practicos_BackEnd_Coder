@@ -15,17 +15,9 @@
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/store/chat.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/store/products.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/utils/winstonLogger/winstonLogger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/Front-End/src/auth/register/AuthRegisterContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/Front-End/src/auth/register/AuthRegisterContainer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/Front-End/src/auth/register/AuthRegisterLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/Front-End/src/auth/register/AuthRegisterLayout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practico-r-18/Front-End/src/pages/cart/CartContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/Front-End/src/pages/cart/CartContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practico-r-18/Front-End/src/pages/cart/CartLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/Front-End/src/pages/cart/CartLayout.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practico-r-18/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/cart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/enviroment/.env" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/enviroment/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/middlewares/passport.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/middlewares/passport.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/models/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/utils/nodemailer/nodemailer.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/utils/nodemailer/nodemailer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/utils/twilio/twilioMsg.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/utils/twilio/twilioMsg.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/utils/twilio/twilioWA.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/utils/twilio/twilioWA.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/logs/nginx.pid" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/logs/nginx.pid" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +93,7 @@
       <workItem from="1676922717323" duration="366000" />
       <workItem from="1676927397455" duration="12506000" />
       <workItem from="1677011617013" duration="13905000" />
-      <workItem from="1677089251576" duration="6590000" />
+      <workItem from="1677089251576" duration="7945000" />
     </task>
     <servers />
   </component>
