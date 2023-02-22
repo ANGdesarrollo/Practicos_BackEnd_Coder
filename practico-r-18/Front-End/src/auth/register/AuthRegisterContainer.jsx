@@ -10,7 +10,7 @@ Axios.defaults.withCredentials = true
 export const AuthRegisterContainer = () => {
     const { onInputChange, formState } = useForm();
     const { validateEmail, validateField, esVariableNumerica } = useValidations();
-    const { email, password, repeatPassword, name, address, avatar } = formState;
+    const { email, password, repeatPassword, name, address, avatar, age } = formState;
     const navigate = useNavigate();
     const [ phoneNumber, setPhoneNumber ] = useState( Number );
 
@@ -30,9 +30,11 @@ export const AuthRegisterContainer = () => {
         const isValidateNumber = esVariableNumerica( phoneNumber );
 
         if ( isValidateEmail && isValidatePw && password === repeatPassword && isValidateNumber && isValidateNumber ) {
+            console.log(age)
             Axios.post( `${ SOCKET_URL }/api/auth/register`, {
                 name,
                 address,
+                age,
                 phoneNumber,
                 avatar,
                 username: email,

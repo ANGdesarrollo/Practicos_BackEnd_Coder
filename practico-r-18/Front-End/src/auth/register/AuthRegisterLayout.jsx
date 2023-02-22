@@ -32,6 +32,17 @@ export const AuthRegisterLayout = ( { onInputChange, onSubmitRegister, handlePho
                         required={ true }
                     />
                 </div>
+                <div className="mb-3">
+                    <label>Age</label>
+                    <input
+                        onChange={ onInputChange }
+                        name="age"
+                        type="number"
+                        className="form-control"
+                        placeholder="Age"
+                        required={ true }
+                    />
+                </div>
                 <div className="mb-3 d-flex flex-column">
                     <label>Phone Number</label>
                     <IntlTelInput

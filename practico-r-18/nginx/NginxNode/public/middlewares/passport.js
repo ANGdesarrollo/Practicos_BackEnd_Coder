@@ -34,19 +34,20 @@ exports.passportLocalRegister = new LocalStrategy( {
             const newUser = {
                 name: body.name,
                 address: body.address,
+                age: body.age,
                 phone: body.phoneNumber,
                 avatar: body.avatar,
                 username: username,
                 password: createHash( password ),
             }
-            console.log(newUser)
+            logger.info( 'info', newUser )
             User.create( newUser, ( err, userWithId ) => {
                 if ( err ) {
                     logger.info( 'error', `${ err }` )
                     return done( err );
                 }
-                console.log( user )
-                console.log( 'User Registration successful' );
+                logger.info( 'info', user  )
+                logger.info( 'info', 'User Registration successful' )
                 return done( null, userWithId );
             } );
         } );}

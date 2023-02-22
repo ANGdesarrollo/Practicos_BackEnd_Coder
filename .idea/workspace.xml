@@ -15,14 +15,17 @@
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/store/chat.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/store/products.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/utils/winstonLogger/winstonLogger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/Front-End/src/pages/cart/CartContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/Front-End/src/pages/cart/CartContainer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practico-r-18/Front-End/src/auth/register/AuthRegisterContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/Front-End/src/auth/register/AuthRegisterContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practico-r-18/Front-End/src/auth/register/AuthRegisterLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/Front-End/src/auth/register/AuthRegisterLayout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practico-r-18/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/cart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/routes/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/routes/cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/enviroment/.env" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/enviroment/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/middlewares/passport.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/middlewares/passport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/models/user.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/utils/nodemailer/nodemailer.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/utils/nodemailer/nodemailer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/utils/twilio/twilio.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/utils/twilio/twilioMsg.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/logs/access.log" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/logs/access.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/logs/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/utils/twilio/twilioMsg.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/utils/twilio/twilioMsg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/utils/twilio/twilioWA.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/utils/twilio/twilioWA.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/logs/nginx.pid" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/logs/nginx.pid" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,17 +47,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.12.1&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.11.19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Programacion/Programacion/BackEnd/Practicos BackEnd/practico-p-16/nginx/NginxNode/public&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "javascript.nodejs.core.library.configured.version": "18.12.1",
+    "javascript.nodejs.core.library.typings.version": "18.11.19",
+    "last_opened_file_path": "D:/Programacion/Programacion/BackEnd/Practicos BackEnd/practico-p-16/nginx/NginxNode/public",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.2.1\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Programacion\Programacion\BackEnd\Practicos BackEnd\practico-p-16\nginx\NginxNode\public" />
@@ -96,7 +100,8 @@
       <workItem from="1676744112435" duration="12894000" />
       <workItem from="1676922717323" duration="366000" />
       <workItem from="1676927397455" duration="12506000" />
-      <workItem from="1677011617013" duration="12722000" />
+      <workItem from="1677011617013" duration="13905000" />
+      <workItem from="1677089251576" duration="6264000" />
     </task>
     <servers />
   </component>
