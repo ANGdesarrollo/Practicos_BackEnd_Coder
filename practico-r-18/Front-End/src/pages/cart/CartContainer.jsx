@@ -11,6 +11,7 @@ export const CartContainer = () => {
     const { isLogged, checkIsLogged } = useCheckLog();
     const { cart } = useContext( ContextProvider );
     const CartToSend = {
+        user: isLogged.username.username,
         cart
     }
     const setCart = () => {

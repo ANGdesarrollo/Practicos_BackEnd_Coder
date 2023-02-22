@@ -81,8 +81,7 @@ const registerUser = async ( req, res ) => {
                       <h2>${ req.body.phoneNumber }</h2> 
                       <h2>${ req.body.username }</h2>
                       <h2>${ req.body.avatar }</h2>`
-        console.log(data)
-        await email( data );
+        await email( data, 'New Register' );
         res.json( {
             status: true,
             message: 'User successfully registered'

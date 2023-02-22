@@ -2,7 +2,7 @@
 const nodemailer = require( "nodemailer" );
 const emailOwner = 'alexisgraff123@gmail.com'
 
-const email = async ( body ) => {
+const email = async ( body, subject ) => {
     let testAccount = await nodemailer.createTestAccount();
 
     let transporter = nodemailer.createTransport( {
@@ -18,7 +18,7 @@ const email = async ( body ) => {
     let info = await transporter.sendMail( {
         from: '"Alexis Graff 👻" <foo@example.com>', // sender address
         to: emailOwner, // list of receivers
-        subject: "New Register ✔", // Subject line
+        subject: `${ subject } ✔`, // Subject line
         text: 'New user registered', // plain text body
         html: `${ body }`, // html body
     } );

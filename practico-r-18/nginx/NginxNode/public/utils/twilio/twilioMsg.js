@@ -3,7 +3,7 @@ const authToken = '6639af4fb642f347998b2d36c610f88c';
 const client = require( 'twilio' )( accountSid, authToken );
 
 
-const Twilio = ( body ) => {
+const TwilioMsg = ( body ) => {
     client.messages
         .create( {
             body: body,
@@ -14,5 +14,5 @@ const Twilio = ( body ) => {
 }
 
 module.exports = {
-    Twilio
+    Twilio: TwilioMsg
 }
