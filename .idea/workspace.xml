@@ -17,41 +17,7 @@
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/store/chat.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/store/products.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/utils/winstonLogger/winstonLogger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practico-q-17/Front-End/src/auth/login/AuthLoginLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Practico-q-17/Front-End/src/auth/login/AuthLoginLayout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-k-11/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practico-k-11/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-l-12/Front-End/src/pages/auth/AuthLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/practico-l-12/Front-End/src/pages/auth/AuthLayout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-m-13/Front-End/src/auth/login/AuthLoginLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/practico-m-13/Front-End/src/auth/login/AuthLoginLayout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-n-14/Front-End/src/auth/login/AuthLoginLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/practico-n-14/Front-End/src/auth/login/AuthLoginLayout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-p-16/Front-End/src/auth/login/AuthLoginLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/practico-p-16/Front-End/src/auth/login/AuthLoginLayout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-p-16/nginx/NginxNode/public/result_isolate-console-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practico-p-16/nginx/NginxNode/public/result_isolate-console-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-p-16/nginx/NginxNode/public/result_isolate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practico-p-16/nginx/NginxNode/public/result_isolate.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-p-16/nginx/contrib/vim/syntax/nginx.vim" beforeDir="false" afterPath="$PROJECT_DIR$/practico-p-16/nginx/contrib/vim/syntax/nginx.vim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-p-16/nginx/docs/CHANGES" beforeDir="false" afterPath="$PROJECT_DIR$/practico-p-16/nginx/docs/CHANGES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-p-16/nginx/docs/CHANGES.ru" beforeDir="false" afterPath="$PROJECT_DIR$/practico-p-16/nginx/docs/CHANGES.ru" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/Front-End/src/auth/login/AuthLoginLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/Front-End/src/auth/login/AuthLoginLayout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/Front-End/src/pages/cart/CartLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/Front-End/src/pages/cart/CartLayout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/authController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/cartController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/faker.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/fakerController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/info.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/infoController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/randoms.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/randomsController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/socketChats.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/socketChatController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/socketProducts.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/controllers/socketProductsController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/database/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/database/config/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/normalizr/normalizr.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/utils/normalizr/normalizr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/result_isolate-console-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/result_isolate-console-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/result_isolate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/result_isolate.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/routes/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/routes/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/routes/cart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/routes/faker.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/routes/faker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/routes/info.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/routes/info.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/routes/randoms.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/routes/randoms.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/server/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/sockets/socket.js" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/NginxNode/public/sockets/socket.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/contrib/vim/syntax/nginx.vim" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/contrib/vim/syntax/nginx.vim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/docs/CHANGES" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/docs/CHANGES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-r-18/nginx/docs/CHANGES.ru" beforeDir="false" afterPath="$PROJECT_DIR$/practico-r-18/nginx/docs/CHANGES.ru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practico-s-19/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/practico-s-19/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +95,7 @@
       <workItem from="1676927397455" duration="12506000" />
       <workItem from="1677011617013" duration="13905000" />
       <workItem from="1677089251576" duration="9273000" />
-      <workItem from="1677785758464" duration="6175000" />
+      <workItem from="1677785758464" duration="7167000" />
     </task>
     <servers />
   </component>
