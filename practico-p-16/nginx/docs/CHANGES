@@ -5836,8 +5836,8 @@ Changes with nginx 0.6.23                                        27 Dec 2007
        "memcached_pass" and "if" directives were used in the same location.
 
     *) Bugfix: if a "satisfy_any on" directive was used and not all access
-       and auth modules directives were set, then other given access and
-       auth directives were not tested;
+       and authController modules directives were set, then other given access and
+       authController directives were not tested;
 
     *) Bugfix: regex parameters in a "valid_referers" directive were not
        inherited from previous level.
@@ -6447,7 +6447,7 @@ Changes with nginx 0.5.15                                        19 Mar 2007
     *) Feature: now the keep-alive connections are closed just after
        receiving the reconfiguration signal.
 
-    *) Change: the "imap" and "auth" directives were renamed to the "mail"
+    *) Change: the "imap" and "authController" directives were renamed to the "mail"
        and "pop3_auth" directives.
 
     *) Bugfix: a segmentation fault occurred in worker process if the

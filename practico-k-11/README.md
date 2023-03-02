@@ -16,7 +16,7 @@ datos). Elegir apropiadamente los temas para conformar el objeto ‘producto’ 
 foto).
 
 ```
-Se creo la ruta especificada, la logica de faker js esta localizada en la carpeta controllers, en el archivo faker.js.
+Se creo la ruta especificada, la logica de fakerController js esta localizada en la carpeta controllers, en el archivo fakerController.js.
 De el lado de el front-end creé en el context de sockets un fetch que golpea a la ruta y activa la funcion para que se rendericen
 los items randoms de Faker JS. Luego mediante sockets se genera la persistencia de datos de cualquier item extra que se agregue.
 ```

@@ -783,7 +783,7 @@ syn keyword ngxDirective contained zone_sync_timeout
 syn keyword ngxDirectiveThirdParty contained set_from_accept_language
 
 " Digest Authentication
-" https://github.com/atomx/nginx-http-auth-digest
+" https://github.com/atomx/nginx-http-authController-digest
 syn keyword ngxDirectiveThirdParty contained auth_digest
 syn keyword ngxDirectiveThirdParty contained auth_digest_drop_time
 syn keyword ngxDirectiveThirdParty contained auth_digest_evasion_time
@@ -795,7 +795,7 @@ syn keyword ngxDirectiveThirdParty contained auth_digest_timeout
 syn keyword ngxDirectiveThirdParty contained auth_digest_user_file
 
 " SPNEGO Authentication
-" https://github.com/stnoonan/spnego-http-auth-nginx-module
+" https://github.com/stnoonan/spnego-http-authController-nginx-module
 syn keyword ngxDirectiveThirdParty contained auth_gss
 syn keyword ngxDirectiveThirdParty contained auth_gss_allow_basic_fallback
 syn keyword ngxDirectiveThirdParty contained auth_gss_authorized_principal
@@ -811,7 +811,7 @@ syn keyword ngxDirectiveThirdParty contained auth_gss_service_ccache
 syn keyword ngxDirectiveThirdParty contained auth_gss_service_name
 
 " LDAP Authentication
-" https://github.com/kvspb/nginx-auth-ldap
+" https://github.com/kvspb/nginx-authController-ldap
 syn keyword ngxDirectiveThirdParty contained auth_ldap
 syn keyword ngxDirectiveThirdParty contained auth_ldap_cache_enabled
 syn keyword ngxDirectiveThirdParty contained auth_ldap_cache_expiration_time
@@ -1784,7 +1784,7 @@ syn keyword ngxDirectiveThirdParty contained set_unescape_uri
 " https://github.com/sflow/nginx-sflow-module
 syn keyword ngxDirectiveThirdParty contained sflow
 
-" Shibboleth auth request module for Nginx
+" Shibboleth authController request module for Nginx
 " https://github.com/nginx-shib/nginx-http-shibboleth
 syn keyword ngxDirectiveThirdParty contained shib_request
 syn keyword ngxDirectiveThirdParty contained shib_request_set
