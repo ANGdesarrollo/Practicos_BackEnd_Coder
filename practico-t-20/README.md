@@ -310,6 +310,8 @@ exports.mongoDB =  class Database {
 
 ### Comprobar que si llamo a la factory dos veces, con una misma opción elegida, devuelva la misma instancia (*patrón singleton).
 
+Aclaracion para este punto = FileSystem se me llama igual, porque no aplique la logica para que se invoque condicionalmente, ya que lo uso de forma separada para el chat y necesito que siempre este funcionando, no condicionalmente
+
 Al elegir en el process.env "mongo" me llama a la factory solo una vez y la db se conecta solo una vez
 
 Foto de el console.log iniciando con Mongo = 
