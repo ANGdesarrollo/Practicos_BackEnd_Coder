@@ -1,20 +1,11 @@
 # Entrega 21
 
 ```
-Front-End = Realizado con React JS
 Back-End = Realizado con Node JS y express.
 
 Para inicializar este trabajo:
 De el lado de ngNix, entrar a la carpeta NginxNode/public y para incializar el fork junto con sus respectivos clusters utilizar el comando "npm dev", para inicializarlo con nodemon utilizar "npm start" .
-De el lado del front-end utilizar: npm start.
-Corroborar que el puerto en el que se inicia el Front-End sea el mismo que esta declarado en el .env (corsOrigin)
-
-!!!!!!!IMPORTANTE!!!!!!! = 
-
-Deje dos variables de entorno, una comentada con localhost y una descomentada con 127.0.0.1, si una no funciona probar con la otra, ya que a veces localhost genera conflicto =
-
-#corsOrigin=http://127.0.0.1:5173  (modificar este puerto de ser necesario)
-corsOrigin=http://localhost:5173 (modificar este puerto de ser necesario)
+iniciarlizarlo con test utilizar "npm test"
 ```
 
 ## Consigna 
