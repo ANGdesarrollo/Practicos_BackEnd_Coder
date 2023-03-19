@@ -19,6 +19,7 @@ const authController = ( req, res ) => {
 const isAuthenticated = ( req, res ) => {
     try {
         const user = isAuthenticatedService(req);
+
         res.json( {
             username: user,
             status: true,

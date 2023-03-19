@@ -1,4 +1,6 @@
 const { email } = require( "../utils/nodemailer/nodemailer" );
+const User = require('../daos/userDaos/userDaos');
+
 const isAuthenticatedService = ( req ) => {
     const { _id, name, address, phone, avatar, username } = req.user;
     return {
@@ -19,6 +21,7 @@ const registerUserService = async( req ) => {
                       <h2>${ req.body.username }</h2>
                       <h2>${ req.body.avatar }</h2>`
     await email( data, 'New Register' );
+
 }
 
 module.exports = {

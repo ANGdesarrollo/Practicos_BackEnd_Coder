@@ -30,3 +30,4 @@ if (!mode) {
 }
 
 module.exports = User;
+

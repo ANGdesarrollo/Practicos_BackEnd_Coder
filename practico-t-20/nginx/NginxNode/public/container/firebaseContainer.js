@@ -23,6 +23,8 @@ class CrudServiceFirebase {
         }
     };
 
+
+
     async create( item ) {
         try {
             await this.db.model( this.model ).add( item );
