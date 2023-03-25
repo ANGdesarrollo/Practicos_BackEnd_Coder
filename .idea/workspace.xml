@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520776f7-faf6-4292-8f9c-850e26f63ad3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End" beforeDir="false" afterPath="$PROJECT_DIR$/Practico-q-17/Back-End" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/normalizr/normalizr.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/result_isolate-console-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Practico-q-17/Back-End/result_isolate-console-log.txt" afterDir="false" />
@@ -17,7 +16,6 @@
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/store/chat.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/store/products.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/utils/winstonLogger/winstonLogger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practico-u-21/nginx/NginxNode/public/enviroment/.env" beforeDir="false" afterPath="$PROJECT_DIR$/practico-u-21/nginx/NginxNode/public/enviroment/.env" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +95,7 @@
       <workItem from="1677089251576" duration="9273000" />
       <workItem from="1677785758464" duration="8008000" />
       <workItem from="1679268571715" duration="467000" />
+      <workItem from="1679772610694" duration="286000" />
     </task>
     <servers />
   </component>
