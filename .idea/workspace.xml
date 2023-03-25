@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520776f7-faf6-4292-8f9c-850e26f63ad3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End" beforeDir="false" afterPath="$PROJECT_DIR$/Practico-q-17/Back-End" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/normalizr/normalizr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/result_isolate-console-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Practico-q-17/Back-End/result_isolate-console-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/result_isolate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Practico-q-17/Back-End/result_isolate.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/routes/auth.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/routes/faker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/routes/info.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/routes/randoms.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/server/server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/sockets/corsConfig.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/sockets/socket.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/store/chat.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/store/products.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/utils/winstonLogger/winstonLogger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practico-w-23" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +13,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/practico-w-23" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -98,7 +83,7 @@
       <workItem from="1677785758464" duration="8008000" />
       <workItem from="1679268571715" duration="467000" />
       <workItem from="1679772610694" duration="286000" />
-      <workItem from="1679778775084" duration="300000" />
+      <workItem from="1679778775084" duration="698000" />
     </task>
     <servers />
   </component>
