@@ -17,6 +17,7 @@
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/store/chat.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/store/products.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Practico-q-17/Back-End/utils/winstonLogger/winstonLogger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practico-u-21/nginx/NginxNode/public/enviroment/.env" beforeDir="false" afterPath="$PROJECT_DIR$/practico-u-21/nginx/NginxNode/public/enviroment/.env" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +96,7 @@
       <workItem from="1677011617013" duration="13905000" />
       <workItem from="1677089251576" duration="9273000" />
       <workItem from="1677785758464" duration="8008000" />
+      <workItem from="1679268571715" duration="467000" />
     </task>
     <servers />
   </component>
