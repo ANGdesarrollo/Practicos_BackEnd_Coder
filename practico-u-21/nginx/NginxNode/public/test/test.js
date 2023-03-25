@@ -13,7 +13,7 @@ const generateProduct = () => {
 
 describe( 'test all endpoints', () => {
     describe( 'GET ALL', () => {
-        it( 'It should return status 200 and be an array', async () => {
+        it( 'It should return status 200 and be an object', async () => {
             const res = await request.get( '/api/products' );
             expect( res.status ).to.eql( 200 );
             expect( res.body ).to.be.a( 'object' );

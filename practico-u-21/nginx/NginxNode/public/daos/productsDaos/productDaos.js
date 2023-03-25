@@ -11,6 +11,7 @@ if ( mode === 'mongo' ) {
             super( ProductModel );
         }
     }
+    
     ProductDaos = new UserDaosModel();
 }
 

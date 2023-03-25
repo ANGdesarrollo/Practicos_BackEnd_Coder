@@ -9,7 +9,6 @@ class ProductController {
     async saveProduct( req, res ) {
         try {
             await new ProductService().saveProductService( req.body )
-
             res.status(201).json( {
                 status: true,
                 message: "Product successfully saved",
